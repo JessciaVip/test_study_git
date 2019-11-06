@@ -13,5 +13,6 @@ Create a new branch is quick AND simple.
 
 这是dev分支
 
-
 Git1同学也修改了dev分支
+
+Git2同学修改了dev分支
