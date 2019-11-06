@@ -3,4 +3,4 @@ This is my readme.txt
 
 Create a new branch is quick.
 
-Create a new branch is quick & simple.
+Create a new branch is quick AND simple.
